@@ -4,6 +4,7 @@ When setup the LocoNet® at a meeting, a test device is often required. It is su
 The device was developed by FREMO.
 
 ![PCB from LocoNet-Leveltester](/Images/LocoNet-Pegeltester.png)<br>
+The PCB fits into housing TEKO 10007<br>
 
 ### miscellaneous
 Original came from here:<br>
