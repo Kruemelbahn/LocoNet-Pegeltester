@@ -8,5 +8,4 @@ The device was developed by FREMO.
 ### miscellaneous
 Original came from here:<br>
 http://dcc-mueller.de/loconet/ln_tst_d.htm<br>
-
 This page contains also a brief description.
