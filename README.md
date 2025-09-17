@@ -9,7 +9,4 @@ The PCB fits into housing TEKO 10007<br>
 ### miscellaneous
 Original came from here:<br>
 http://dcc-mueller.de/loconet/ln_tst_d.htm<br>
-This page contains also a brief description.
-
-A similar kit is available here:<br>
-https://www.h0fine.de/Shop2/product_info.php?products_id=35
+This page contains also a brief description for the usage.
